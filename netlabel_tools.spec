@@ -4,7 +4,7 @@
 #
 Name     : netlabel_tools
 Version  : 0.30.0
-Release  : 1
+Release  : 2
 URL      : https://github.com/netlabel/netlabel_tools/releases/download/v0.30.0/netlabel_tools-0.30.0.tar.gz
 Source0  : https://github.com/netlabel/netlabel_tools/releases/download/v0.30.0/netlabel_tools-0.30.0.tar.gz
 Summary  : No detailed summary available
